@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="MapCarnage_logo_transparent.png" alt="MapCarnage" width="560">
+  <img src="https://github.com/damballah/mapcarnage/blob/main/MapCarnage_Logo.png" alt="MapCarnage" width="560">
 </p>
 
 <p align="center">
